@@ -1,0 +1,6 @@
+body{
+    background: rgb(92, 41, 175);
+    color: rgb(79, 226, 214);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+}
