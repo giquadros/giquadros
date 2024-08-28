@@ -3,4 +3,26 @@ body{
     color: rgb(79, 226, 214);
     font-family:Georgia, 'Times New Roman', Times, serif;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background: rgb(241, 229, 57)(255, 225, 52);
+    color: rgb(240, 31, 229);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
+main{
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 90%;
 }
